@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5387686668458822006
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2384994602122492603, guid: 823f4a7f44736d744b7d170182d6b8c4, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 16.109756
+      objectReference: {fileID: 0}
+    - target: {fileID: 2384994602122492603, guid: 823f4a7f44736d744b7d170182d6b8c4, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 16.109756
+      objectReference: {fileID: 0}
+    - target: {fileID: 2384994602122492603, guid: 823f4a7f44736d744b7d170182d6b8c4, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 16.109756
+      objectReference: {fileID: 0}
+    - target: {fileID: 2384994602122492603, guid: 823f4a7f44736d744b7d170182d6b8c4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 135.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 2384994602122492603, guid: 823f4a7f44736d744b7d170182d6b8c4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.07
+      objectReference: {fileID: 0}
+    - target: {fileID: 2384994602122492603, guid: 823f4a7f44736d744b7d170182d6b8c4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 28.587
+      objectReference: {fileID: 0}
+    - target: {fileID: 2384994602122492603, guid: 823f4a7f44736d744b7d170182d6b8c4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071067
+      objectReference: {fileID: 0}
+    - target: {fileID: 2384994602122492603, guid: 823f4a7f44736d744b7d170182d6b8c4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 2384994602122492603, guid: 823f4a7f44736d744b7d170182d6b8c4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2384994602122492603, guid: 823f4a7f44736d744b7d170182d6b8c4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2384994602122492603, guid: 823f4a7f44736d744b7d170182d6b8c4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2384994602122492603, guid: 823f4a7f44736d744b7d170182d6b8c4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2384994602122492603, guid: 823f4a7f44736d744b7d170182d6b8c4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3049749868136128513, guid: 823f4a7f44736d744b7d170182d6b8c4, type: 3}
+      propertyPath: m_Name
+      value: bigmushroom (1) 2 (8) Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 823f4a7f44736d744b7d170182d6b8c4, type: 3}

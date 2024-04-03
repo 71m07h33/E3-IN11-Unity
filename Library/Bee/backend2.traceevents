@@ -1,0 +1,437 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1712133539339186, "dur":68, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1712133539339301, "dur":25632, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1712133539364947, "dur":228, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1712133539365231, "dur":802, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1712133539366077, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":0, "ts":1712133539366214, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1712133539366271, "dur":241, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/level0" }}
+,{ "pid":12345, "tid":0, "ts":1712133539366521, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/level0.resS" }}
+,{ "pid":12345, "tid":0, "ts":1712133539366583, "dur":79, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/resources.assets" }}
+,{ "pid":12345, "tid":0, "ts":1712133539366708, "dur":100, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":0, "ts":1712133539366813, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":0, "ts":1712133539366963, "dur":93, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1712133539367258, "dur":93, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1712133539367626, "dur":85, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1712133539367768, "dur":110, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1712133539367933, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1712133539368158, "dur":96, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1712133539368312, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1712133539368376, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1712133539368490, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1712133539368568, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1712133539368640, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1712133539368710, "dur":77, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1712133539369007, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1712133539369339, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1712133539369542, "dur":88, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1712133539369635, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1712133539369689, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1712133539369892, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1712133539370025, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1712133539370188, "dur":89, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1712133539370376, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1712133539370581, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1712133539371015, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1712133539371278, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1712133539371339, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1712133539371542, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":0, "ts":1712133539371663, "dur":78, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":0, "ts":1712133539372090, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1712133539372160, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":0, "ts":1712133539372276, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":0, "ts":1712133539372563, "dur":100, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":0, "ts":1712133539372672, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":0, "ts":1712133539372748, "dur":82, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":0, "ts":1712133539372835, "dur":91, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":0, "ts":1712133539372935, "dur":79, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":0, "ts":1712133539373243, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":0, "ts":1712133539373356, "dur":104, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":0, "ts":1712133539373468, "dur":85, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":0, "ts":1712133539373556, "dur":82, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":0, "ts":1712133539373645, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":0, "ts":1712133539373714, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/app.info" }}
+,{ "pid":12345, "tid":0, "ts":1712133539373784, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":0, "ts":1712133539373850, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":0, "ts":1712133539373918, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest.exe" }}
+,{ "pid":12345, "tid":0, "ts":1712133539373989, "dur":78, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":0, "ts":1712133539374109, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":0, "ts":1712133539374214, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":0, "ts":1712133539374317, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1712133539374488, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":0, "ts":1712133539374719, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":0, "ts":1712133539374790, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1712133539374892, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":0, "ts":1712133539375091, "dur":98, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":0, "ts":1712133539366065, "dur":9125, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1712133539375192, "dur":315121, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1712133539690315, "dur":505, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1712133539690821, "dur":118, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1712133539690987, "dur":99, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1712133539691292, "dur":16558, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1712133539366506, "dur":8728, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1712133539375240, "dur":2105, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1712133539377346, "dur":7696, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1712133539385045, "dur":625, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1712133539418512, "dur":94, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1712133539409760, "dur":8872, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1712133539418812, "dur":1043, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1712133539418810, "dur":1050, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1712133539435689, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1712133539422070, "dur":13696, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1712133539448880, "dur":50, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1712133539435920, "dur":13035, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":1, "ts":1712133539449119, "dur":14917, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1712133539464287, "dur":13104, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1712133539477698, "dur":19372, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1712133539515397, "dur":115, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1712133539497233, "dur":18360, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1712133539515732, "dur":54, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1712133539515793, "dur":144, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1712133539515945, "dur":13870, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1712133539529978, "dur":42002, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1712133539572069, "dur":118281, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1712133539366970, "dur":8392, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1712133539375374, "dur":2139, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1712133539377514, "dur":7538, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1712133539385054, "dur":612, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1712133539405381, "dur":42915, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1712133539448448, "dur":15648, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1712133539477815, "dur":68, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1712133539464311, "dur":13659, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1712133539478141, "dur":71, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1712133539478225, "dur":19168, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1712133539497541, "dur":17921, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1712133539515638, "dur":12713, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1712133539528507, "dur":105065, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1712133539528505, "dur":105069, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1712133539652710, "dur":50, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1712133539633610, "dur":19175, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1712133539652904, "dur":37411, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1712133539366809, "dur":8505, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1712133539375321, "dur":2232, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1712133539377554, "dur":7452, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1712133539385010, "dur":562, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":3, "ts":1712133539413270, "dur":69, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1712133539402669, "dur":10699, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":3, "ts":1712133539413515, "dur":8787, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\mscorlib.dll" }}
+,{ "pid":12345, "tid":3, "ts":1712133539413512, "dur":8795, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":3, "ts":1712133539422609, "dur":18296, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":3, "ts":1712133539451776, "dur":64, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1712133539441071, "dur":10788, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1712133539452062, "dur":15104, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1712133539483204, "dur":54, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1712133539467372, "dur":15918, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1712133539501834, "dur":57, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1712133539483540, "dur":18377, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1712133539502156, "dur":16711, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1712133539534284, "dur":62, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1712133539518986, "dur":15406, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1712133539534790, "dur":5915, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":3, "ts":1712133539552146, "dur":75, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1712133539540945, "dur":11313, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":3, "ts":1712133539552416, "dur":138012, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1712133539366727, "dur":8570, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1712133539375303, "dur":1918, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1712133539377222, "dur":7827, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1712133539385061, "dur":4648, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1712133539385050, "dur":4662, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1712133539404806, "dur":216, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1712133539400576, "dur":4465, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1712133539405279, "dur":404, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1712133539405711, "dur":67, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1712133539416881, "dur":304, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1712133539408799, "dur":8409, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1712133539417379, "dur":348, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Transactions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1712133539417376, "dur":353, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1712133539432571, "dur":50, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1712133539420483, "dur":12186, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1712133539432995, "dur":11565, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":4, "ts":1712133539444753, "dur":14728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":4, "ts":1712133539459659, "dur":50, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1712133539472175, "dur":52, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1712133539459717, "dur":12538, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1712133539472520, "dur":18521, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1712133539491207, "dur":16523, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1712133539507840, "dur":15865, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1712133539523876, "dur":14959, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1712133539550050, "dur":185, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1712133539539080, "dur":11189, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/level0" }}
+,{ "pid":12345, "tid":4, "ts":1712133539550475, "dur":139990, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1712133539366651, "dur":8597, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1712133539375255, "dur":1945, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1712133539377201, "dur":7824, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1712133539385051, "dur":4903, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1712133539385031, "dur":4926, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1712133539408674, "dur":74, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1712133539400818, "dur":7961, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1712133539408936, "dur":40260, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":5, "ts":1712133539408932, "dur":40267, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":5, "ts":1712133539449869, "dur":4082, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":5, "ts":1712133539468618, "dur":52, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1712133539454071, "dur":14716, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1712133539486592, "dur":65, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1712133539468996, "dur":17694, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1712133539486946, "dur":17604, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1712133539504668, "dur":16829, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1712133539537175, "dur":1014, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1712133539521603, "dur":16664, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1712133539538647, "dur":71, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1712133539549843, "dur":243, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1712133539538741, "dur":11394, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/level0.resS" }}
+,{ "pid":12345, "tid":5, "ts":1712133539550351, "dur":139947, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1712133539366707, "dur":8571, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1712133539375293, "dur":2302, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1712133539377596, "dur":7474, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1712133539385071, "dur":443, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1712133539411207, "dur":88, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1712133539402195, "dur":9123, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1712133539411463, "dur":300, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":6, "ts":1712133539426488, "dur":55, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1712133539412551, "dur":14020, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":6, "ts":1712133539426750, "dur":51, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1712133539438633, "dur":52, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1712133539426812, "dur":11900, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":6, "ts":1712133539452553, "dur":121, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1712133539439071, "dur":13628, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":6, "ts":1712133539453079, "dur":14625, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1712133539485186, "dur":50, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1712133539467908, "dur":17360, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1712133539504380, "dur":52, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1712133539485618, "dur":18845, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1712133539504593, "dur":16887, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1712133539537168, "dur":74, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1712133539521597, "dur":15715, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1712133539537813, "dur":115, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1712133539552290, "dur":55, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1712133539537947, "dur":14425, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/resources.assets" }}
+,{ "pid":12345, "tid":6, "ts":1712133539552554, "dur":137845, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1712133539366477, "dur":8738, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1712133539375225, "dur":9758, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1712133539389434, "dur":7171, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":7, "ts":1712133539396615, "dur":300, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1712133539396930, "dur":281, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":7, "ts":1712133539397236, "dur":308, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":7, "ts":1712133539397718, "dur":305, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1712133539398243, "dur":508, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\timti\\OneDrive\\Courses\\E3\\IN\\IN11\\Golf Quest\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":7, "ts":1712133539398757, "dur":555, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\timti\\OneDrive\\Courses\\E3\\IN\\IN11\\Golf Quest\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1712133539399316, "dur":624, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\timti\\OneDrive\\Courses\\E3\\IN\\IN11\\Golf Quest\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":7, "ts":1712133539399945, "dur":536, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\timti\\OneDrive\\Courses\\E3\\IN\\IN11\\Golf Quest\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1712133539400485, "dur":883, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\timti\\OneDrive\\Courses\\E3\\IN\\IN11\\Golf Quest\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":7, "ts":1712133539401372, "dur":1299, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\timti\\OneDrive\\Courses\\E3\\IN\\IN11\\Golf Quest\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1712133539402676, "dur":344, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\timti\\OneDrive\\Courses\\E3\\IN\\IN11\\Golf Quest\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":7, "ts":1712133539403024, "dur":794, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\timti\\OneDrive\\Courses\\E3\\IN\\IN11\\Golf Quest\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":7, "ts":1712133539403835, "dur":373, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Facades\\netstandard.dll" }}
+,{ "pid":12345, "tid":7, "ts":1712133539404211, "dur":568, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Mono.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1712133539404784, "dur":673, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":7, "ts":1712133539405461, "dur":1316, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Configuration.dll" }}
+,{ "pid":12345, "tid":7, "ts":1712133539406781, "dur":2134, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1712133539408920, "dur":342, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1712133539409266, "dur":3691, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Data.dll" }}
+,{ "pid":12345, "tid":7, "ts":1712133539412961, "dur":1122, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Drawing.dll" }}
+,{ "pid":12345, "tid":7, "ts":1712133539414088, "dur":375, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":7, "ts":1712133539414467, "dur":272, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":7, "ts":1712133539414743, "dur":526, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":7, "ts":1712133539415273, "dur":1381, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Net.Http.dll" }}
+,{ "pid":12345, "tid":7, "ts":1712133539416686, "dur":920, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Numerics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1712133539417611, "dur":3197, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":7, "ts":1712133539420820, "dur":316, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Transactions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1712133539421143, "dur":13212, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Xml.dll" }}
+,{ "pid":12345, "tid":7, "ts":1712133539434372, "dur":910, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Playera1bfa0d3-inputdata.json" }}
+,{ "pid":12345, "tid":7, "ts":1712133539435612, "dur":187, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1712133539435904, "dur":56, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Toolchain.Xcode.dll" }}
+,{ "pid":12345, "tid":7, "ts":1712133539396613, "dur":39509, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1712133539436132, "dur":459, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1712133539436599, "dur":50, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1712133539436936, "dur":242651, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1712133539687886, "dur":323, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1712133539687884, "dur":327, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1712133539688239, "dur":1965, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/boot.config" }}
+,{ "pid":12345, "tid":8, "ts":1712133539366897, "dur":8434, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1712133539375341, "dur":2108, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1712133539377449, "dur":7589, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1712133539385051, "dur":4635, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":8, "ts":1712133539385039, "dur":4650, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1712133539404869, "dur":200, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1712133539400655, "dur":4430, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1712133539405214, "dur":331, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1712133539447828, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1712133539406975, "dur":40935, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1712133539448099, "dur":15352, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1712133539463630, "dur":12970, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1712133539476781, "dur":18744, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1712133539495649, "dur":18369, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1712133539514135, "dur":13471, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1712133539527715, "dur":13502, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1712133539541392, "dur":148917, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1712133539367023, "dur":8361, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1712133539375388, "dur":956, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1712133539376345, "dur":8685, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1712133539385036, "dur":440, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":9, "ts":1712133539400652, "dur":40916, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":9, "ts":1712133539452813, "dur":50, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1712133539441886, "dur":10998, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":9, "ts":1712133539467569, "dur":66, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1712133539453050, "dur":14688, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1712133539483938, "dur":57, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1712133539468016, "dur":16016, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1712133539484413, "dur":18315, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1712133539502843, "dur":17070, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1712133539535226, "dur":62, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1712133539520141, "dur":15186, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1712133539549877, "dur":274, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1712133539535661, "dur":14522, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":9, "ts":1712133539550572, "dur":139835, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1712133539367083, "dur":8313, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1712133539375397, "dur":9615, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1712133539385014, "dur":548, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":10, "ts":1712133539414698, "dur":56, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1712133539399907, "dur":14873, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":10, "ts":1712133539414931, "dur":5083, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.dll" }}
+,{ "pid":12345, "tid":10, "ts":1712133539414928, "dur":5090, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":10, "ts":1712133539422066, "dur":14118, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":10, "ts":1712133539436349, "dur":65, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1712133539436423, "dur":13156, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":10, "ts":1712133539449721, "dur":68, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1712133539465391, "dur":54, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1712133539449826, "dur":15700, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":10, "ts":1712133539465728, "dur":13427, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1712133539479312, "dur":18302, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1712133539515421, "dur":52, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1712133539497752, "dur":17743, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1712133539515621, "dur":158, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1712133539515828, "dur":12704, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1712133539528638, "dur":17217, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":10, "ts":1712133539546057, "dur":144387, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1712133539367166, "dur":8248, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1712133539375415, "dur":9582, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1712133539389481, "dur":3259, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":11, "ts":1712133539392750, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/app.info" }}
+,{ "pid":12345, "tid":11, "ts":1712133539393857, "dur":9272, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/app.info" }}
+,{ "pid":12345, "tid":11, "ts":1712133539403138, "dur":7698, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":11, "ts":1712133539403135, "dur":7704, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":11, "ts":1712133539415422, "dur":54, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1712133539411121, "dur":4382, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":11, "ts":1712133539415671, "dur":5977, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Xml.dll" }}
+,{ "pid":12345, "tid":11, "ts":1712133539415668, "dur":5984, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":11, "ts":1712133539422045, "dur":14007, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":11, "ts":1712133539436352, "dur":142, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1712133539449354, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1712133539436503, "dur":12923, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":11, "ts":1712133539464499, "dur":162, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1712133539449571, "dur":15119, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":11, "ts":1712133539464961, "dur":14512, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1712133539479610, "dur":19553, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1712133539499320, "dur":17238, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1712133539531993, "dur":63, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1712133539516775, "dur":15506, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1712133539532594, "dur":25155, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":11, "ts":1712133539557846, "dur":132523, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1712133539367243, "dur":8178, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1712133539375422, "dur":9578, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1712133539385030, "dur":34880, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":12, "ts":1712133539385009, "dur":34905, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":12, "ts":1712133539424701, "dur":84, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1712133539419944, "dur":4881, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":12, "ts":1712133539437640, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1712133539425037, "dur":12735, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":12, "ts":1712133539437976, "dur":13637, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":12, "ts":1712133539466667, "dur":55, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1712133539451811, "dur":14964, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":12, "ts":1712133539481765, "dur":69, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1712133539466993, "dur":14875, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1712133539482061, "dur":18357, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1712133539500642, "dur":17540, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1712133539518337, "dur":14461, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1712133539533024, "dur":58, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1712133539545634, "dur":55, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1712133539533092, "dur":12629, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":12, "ts":1712133539545836, "dur":144465, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1712133539367297, "dur":8132, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1712133539375429, "dur":9574, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1712133539385059, "dur":4599, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":13, "ts":1712133539385009, "dur":4653, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":13, "ts":1712133539404204, "dur":86, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1712133539400367, "dur":3950, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":13, "ts":1712133539404474, "dur":398, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":13, "ts":1712133539404890, "dur":1467, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1712133539407680, "dur":11247, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":13, "ts":1712133539419052, "dur":2198, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":13, "ts":1712133539419049, "dur":2204, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":13, "ts":1712133539423069, "dur":13334, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":13, "ts":1712133539436569, "dur":14401, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":13, "ts":1712133539451171, "dur":14494, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":13, "ts":1712133539465858, "dur":14294, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1712133539480264, "dur":18092, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1712133539498611, "dur":17518, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1712133539516330, "dur":65, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1712133539532087, "dur":131, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1712133539516405, "dur":15921, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1712133539532546, "dur":73, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1712133539543578, "dur":69, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1712133539532626, "dur":11052, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":13, "ts":1712133539543867, "dur":146437, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1712133539367386, "dur":8063, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1712133539375450, "dur":9571, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1712133539385023, "dur":532, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":14, "ts":1712133539400845, "dur":8343, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":14, "ts":1712133539409321, "dur":71689, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":14, "ts":1712133539409317, "dur":71697, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":14, "ts":1712133539481189, "dur":11235, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":14, "ts":1712133539492662, "dur":18836, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1712133539511626, "dur":13696, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1712133539540121, "dur":67, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1712133539525462, "dur":14763, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1712133539540429, "dur":12212, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":14, "ts":1712133539552815, "dur":137507, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1712133539367470, "dur":8002, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1712133539375474, "dur":9544, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1712133539385048, "dur":4664, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":15, "ts":1712133539385025, "dur":4689, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":15, "ts":1712133539404792, "dur":63, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1712133539400559, "dur":4324, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":15, "ts":1712133539405040, "dur":5699, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":15, "ts":1712133539405036, "dur":5707, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":15, "ts":1712133539416863, "dur":57, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1712133539411217, "dur":5727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":15, "ts":1712133539417126, "dur":540, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":15, "ts":1712133539417124, "dur":544, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":15, "ts":1712133539432493, "dur":71, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1712133539420462, "dur":12141, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":15, "ts":1712133539442935, "dur":63, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1712133539432868, "dur":10363, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":15, "ts":1712133539457572, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1712133539443457, "dur":14193, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":15, "ts":1712133539457847, "dur":14783, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1712133539472813, "dur":19066, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1712133539492052, "dur":16766, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1712133539508934, "dur":15522, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1712133539524574, "dur":15834, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1712133539552298, "dur":88, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1712133539540711, "dur":11770, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":15, "ts":1712133539552613, "dur":137778, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1712133539367558, "dur":7931, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1712133539375490, "dur":9544, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1712133539385049, "dur":481, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":16, "ts":1712133539401953, "dur":9134, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":16, "ts":1712133539411237, "dur":1420, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":16, "ts":1712133539411235, "dur":1425, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest.exe" }}
+,{ "pid":12345, "tid":16, "ts":1712133539418171, "dur":52, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1712133539412733, "dur":5512, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest.exe" }}
+,{ "pid":12345, "tid":16, "ts":1712133539418400, "dur":671, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":16, "ts":1712133539418397, "dur":678, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":16, "ts":1712133539434433, "dur":67, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1712133539422030, "dur":12508, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":16, "ts":1712133539434874, "dur":9602, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":16, "ts":1712133539444675, "dur":14829, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":16, "ts":1712133539474452, "dur":53, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1712133539459693, "dur":14842, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1712133539493069, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1712133539474734, "dur":18413, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1712133539493320, "dur":18948, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1712133539512400, "dur":13815, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1712133539540159, "dur":658, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1712133539526367, "dur":14518, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/timti/Downloads/jeuu/Golf Quest_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1712133539541034, "dur":149273, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1712133539715624, "dur":2768, "ph":"X", "name": "ProfilerWriteOutput" }
+,
